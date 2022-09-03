@@ -1,0 +1,22 @@
+{
+  "name": "container-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashpy/node-container-lambda.git"
+  },
+  "author": "dashpy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashpy/node-container-lambda/issues"
+  },
+  "homepage": "https://github.com/dashpy/node-container-lambda#readme",
+  "dependencies": {
+    "jshint": "^2.13.5"
+  }
+}
